@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(donors.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 2em;
+    color: #fff;
+}
+.odometer{
+    font-size: 4em;
+    color: #fff;
+}
